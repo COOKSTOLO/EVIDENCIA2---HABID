@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_button"
+            android:title="Button" />
+        <item
+            android:id="@+id/nav_edittext"
+            android:title="EditText" />
+        <item
+            android:id="@+id/nav_radiobutton"
+            android:title="RadioButton" />
+        <item
+            android:id="@+id/nav_checkbox"
+            android:title="CheckBox" />
+        <item
+            android:id="@+id/nav_switch"
+            android:title="Switch" />
+        <item
+            android:id="@+id/nav_spinner"
+            android:title="Spinner" />
+        <item
+            android:id="@+id/nav_seekbar"
+            android:title="SeekBar" />
+        <item
+            android:id="@+id/nav_textview"
+            android:title="TextView" />
+        <item
+            android:id="@+id/nav_imageview"
+            android:title="ImageView" />
+        <item
+            android:id="@+id/nav_progressbar"
+            android:title="ProgressBar" />
+    </group>
+
+</menu>
